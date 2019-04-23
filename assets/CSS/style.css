@@ -31,7 +31,7 @@ header {
   padding-right: 5px;
   position: fixed;
   overflow: visible;
-  z-index: 600;
+  z-index: 2000;
 }
 .header-left img {
   width:131px;
@@ -124,13 +124,7 @@ z-index: 1;
   text-decoration: none;
   color:#f72210;
 }
-.content h2, .content h4{
-  font-size: 22px;
-  line-height: 24px;
-  color:#000;
-  font-weight: bold;
-  margin-top: 10px;
-}
+
 .related {
   font-size: 19px;
   line-height: 22px;
@@ -144,6 +138,42 @@ z-index: 1;
   border-top: 1px solid #d9d9d9;
   padding: 10px 0;
 }
+.image {
+  width:100%;
+  height:50%;
+}
+.image img {
+  width:100%;
+  height: 100%;
+}
+.content article.clearfix {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-top: 1px solid #ddd
+}
+.More-Stories-Img {
+  margin-right: 10px;
+  display: block;
+  float:left;
+}
+.content h4{
+  font-size: 17px;
+  line-height: 20px;
+  font-weight: bold;
+  color:#000;
+}
+.content h2{
+  font-size: 22px;
+  line-height: 24px;
+  color:#000;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.sticky {
+  position: sticky;
+  top:0;
+  z-index: 550;
+}
 @media screen and (max-width: 767px){
   .More-Stories-Img {
     width:258px;
@@ -152,17 +182,16 @@ z-index: 1;
     display: block;
     float:left;
   }
-  .content article.clearfix {
-    padding-top: 14px;
-    padding-bottom: 14px;
-    border-top: 1px solid #ddd
-  }
-  .content h4{
-    font-size: 17px;
-    line-height: 20px;
-  }
+}
+@media screen and (max-width: 991px){
+.main-container .card.sticky-top{
+  outline: none;
+}
 }
 @media screen and (min-width: 992px){
+  .main-container {
+    top:120px;
+  }
   .row.header{
     height: 100px;
   }

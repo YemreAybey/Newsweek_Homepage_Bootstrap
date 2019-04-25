@@ -161,12 +161,19 @@ z-index: 1;
   display: block;
   float:left;
 }
+.col-xs-12.col-md-3 .card.border-0 h4,
+.col-xs-12.col-md-3.order-md-3 .card.border-0 h4,
+.col-xs-12.col-md-6.col-lg-3 h4,
+.col-xs-12.col-md-4 h4,
 .content h4,
 .info a:first-child{
   font-size: 17px;
   line-height: 20px;
   font-weight: bold;
   color:#000;
+}
+.summary {
+  font-size: 0.9rem;
 }
 .content h2{
   font-size: 22px;
@@ -244,7 +251,7 @@ z-index: 1;
   text-decoration: none;
 }
 #In-The-Magazine {
-  width: 200px;
+  width: 224px;
   height: 28px;
   margin:2rem auto;
 }
@@ -262,6 +269,77 @@ z-index: 1;
   color: #f72210;
   background-color: #fff;
 }
+.slide-img {
+  width: 70px;
+  height: 52px;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 58px;
+  text-indent: 5px;
+  text-align: center;
+  background: url(https://s.newsweek.com/sites/www.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
+  color: #e9212e;
+}
+.clearfix.mt-1.pt-2 {
+  border-top: 1px solid #ddd;
+}
+.row.trio {
+  border-bottom: 3px solid #ddd;
+}
+.items {
+    background-color: #f4f5f6;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+.item1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.item2 {
+border-top: 1px solid #d2d2d2;
+}
+.items img {
+  float: left;
+  margin-right: 20px;
+  vertical-align: middle;
+  height: auto;
+  max-width: 100%;
+}
+.items h3{
+  font-size: 1rem;
+  color:#000;
+  font-weight: bold;
+}
+.genericon-checkmark {
+    display: inline-block;
+    color: #999;
+}
+
+.genericon {
+    line-height: 20px;
+    font-size: 26px;
+    vertical-align: top;
+    text-align: center;
+    cursor: pointer;
+  }
+  .btn.text-light.subscribe {
+    background-color: #de1f0e;
+    font: bold 18px/18px "Roboto Condensed",sans-serif;
+    margin-bottom: 15px;
+    width:120px;
+    display: block;
+    clear: both;
+  }
+  .lastpart {
+    border: 1px solid #e6e6e6;
+    background-color: #f8f8f8;
+  }
 
 @media screen and (max-width: 767px){
   .More-Stories-Img {
@@ -277,6 +355,14 @@ z-index: 1;
   .More-Stories-Img {
     width:135px;
     height:90px;
+  }
+  .col-xs-12.col-md-4 h4{
+    font-size: 12px;
+  }
+  .items h3 {
+    font-size: 24px;
+    line-height: 24px;
+
   }
 }
 @media screen and (max-width: 991px){

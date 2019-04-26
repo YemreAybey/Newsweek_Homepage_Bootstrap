@@ -250,7 +250,7 @@ z-index: 1;
 .card-body.cardback h4 a:hover{
   text-decoration: none;
 }
-#In-The-Magazine {
+#In-The-Magazine, #In-The-Magazine2, #In-The-Magazine3 {
   width: 224px;
   height: 28px;
   margin:2rem auto;

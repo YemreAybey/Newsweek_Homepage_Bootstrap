@@ -66,6 +66,9 @@ border-bottom:1px solid #f4f5f6;
   font-weight: bold;
   font-size: 21px;
 }
+.navbar-item .nav-link:hover{
+  color:#f72210;
+}
 .navbar .navbar-nav .navbar-item{
   border-left: 1px solid #d9d9d9;
   text-align: center;

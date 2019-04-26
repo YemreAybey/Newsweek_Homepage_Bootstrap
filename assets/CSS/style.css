@@ -408,6 +408,18 @@ border-top: 1px solid #d2d2d2;
     height:20px;
   }
 }
+@media screen and (max-width:390px){
+  .more-img-xs {
+    float: none;
+    width:100%;
+  }
+  .clearfix .more-h4 {
+    clear: both;
+  }
+  .image.rounded-circle.float-left ~ .info {
+    width: 60%;
+  }
+}
 @media screen and (min-width: 768px) {
   .More-Stories-Img {
     width:135px;

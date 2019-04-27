@@ -6,6 +6,6 @@ using:
 - *HTML, HTML5*
 - *Bootstrap 4*
 - *CSS3*   
-You can find the live version [here](https://raw.githack.com/YemreAybey/Newsweek_Homepage_Bootstrap/development/index.html)
+You can find the live version [here](https://yemreaybey.github.io/Newsweek_Homepage_Bootstrap/)
 
 **Have a Nice Day**

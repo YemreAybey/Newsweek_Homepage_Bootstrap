@@ -7,17 +7,19 @@
   <a href="https://github.com/YemreAybey/Newsweek_Homepage_Bootstrap/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://yemreaybey.github.io/Newsweek_Homepage_Bootstrap" target="_blank">
-    <img alt="Web Site" src="https://res.cloudinary.com/yemreaybey/image/upload/v1576076967/Portfolio/newsweek_a4cjy0.png" />
+   <a href="https://twitter.com/YunusAybey" target="_blank">
+    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/follow/YunusAybey.svg?style=social" />
   </a>
 </p>
 <p>
-  <a href="https://twitter.com/YunusAybey" target="_blank">
-    <img alt="Twitter: YunusAybey" src="https://img.shields.io/twitter/follow/YunusAybey.svg?style=social" />
+ <a href="https://yemreaybey.github.io/Newsweek_Homepage_Bootstrap" target="_blank">
+    <img alt="Web Site" src="https://res.cloudinary.com/yemreaybey/image/upload/v1576076967/Portfolio/newsweek_a4cjy0.png" />
   </a>
 </p>
 
 <br>
+
+## Info
 
 This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 

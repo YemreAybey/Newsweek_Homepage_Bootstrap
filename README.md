@@ -12,8 +12,8 @@
   </a>
 </p>
 <p>
- <a align="center" href="https://yemreaybey.github.io/Newsweek_Homepage_Bootstrap" target="_blank">
-    <img alt="Web Site" src="https://res.cloudinary.com/yemreaybey/image/upload/v1576076967/Portfolio/newsweek_a4cjy0.png" />
+ <a href="https://yemreaybey.github.io/Newsweek_Homepage_Bootstrap" target="_blank">
+    <img align="center" alt="Web Site" src="https://res.cloudinary.com/yemreaybey/image/upload/v1576076967/Portfolio/newsweek_a4cjy0.png" />
   </a>
 </p>
 

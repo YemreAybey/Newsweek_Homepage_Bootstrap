@@ -23,7 +23,7 @@
 
 This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ "The Global School for Remote Software Developers!").
 
-In this project, I have cloned the newsweek's [home page](https://www.newsweek.com/)
+In this project, I have cloned Newsweek's [home page](https://www.newsweek.com/)
 
 ## Built With
 
